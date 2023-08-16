@@ -1,0 +1,26 @@
+body{
+    background-color:palevioletred;
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+p{
+    margin-left: 55%;
+}
+h1{
+    text-align: center;
+    padding-top:120px;
+    color: #0D1282;
+}
+h3{
+    text-align: center;
+}
+a:link{
+    color:purple ;
+}
+a:visited{
+    color:black;
+}
+a:active{
+    color:#3E001F ;
+}
